@@ -1,0 +1,58 @@
+body{
+
+	    margin: 10px;
+	    font-size: 30px;
+	    padding: 5px;
+	    font-family: arial;
+	    border-radius: 3px solid red;
+	    max-width: 100%;
+	    justify-content: flex;
+	    color: green;
+	    font-size: calc(20px + 0.390625vw);
+
+
+    }
+
+
+.template{
+
+ 	            margin: 15px;
+ 	            padding: 15px;
+ 	            border: 5px solid blue;
+ 	            max-width: 100%;
+ 	            width: 40%;
+ 	            height: 700px;
+ 	            text-align: center;
+ 	            background-color:pink;
+ 	            float: left;
+            
+ 	       }         
+
+#Container_2{
+ 	            margin: 15px;
+ 	            padding: 15px;
+ 	            border: 5px solid red;
+ 	            max-width: 100%;
+ 	            width: 40%;
+ 	            height: 200px;
+ 	            text-align: center;
+ 	            background-color:yellow;
+ 	            float: right;
+             }
+
+
+.link{
+	     width: 150px;
+	     height: 50px;
+	     border-radius: 20px;
+	     max-width: 100%;
+}
+
+.pic{
+ 	   max-width: 100%;
+ 	   padding: 15px;
+ 	   text-align: center;
+ 	   border-radius: 100px;
+ }
+
+ 
